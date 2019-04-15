@@ -1,0 +1,23 @@
+{
+  "name": "hotel_api",
+  "version": "0.0.1",
+  "description": "Api para Examen tecnico Al mundo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hotel",
+    "api",
+    "almundo",
+    "julian",
+    "restrepo"
+  ],
+  "author": "Julian Restrepo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
